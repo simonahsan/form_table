@@ -1,2 +1,2 @@
-# from_table
+# form_table
 from table practice 
